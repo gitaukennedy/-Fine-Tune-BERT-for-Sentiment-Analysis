@@ -6,4 +6,4 @@ After training on a labeled dataset, the model is evaluated using key performanc
 
 The model can also be tested on custom user inputs to demonstrate real-world usability.
 
-Such systems are widely applied across industries including customer experience analytics, social media monitoring, financial sentiment tracking, and automated support systems, where extracting meaning and opinion from large volumes of text is essential for informed decision-making
+Such systems are widely applied across industries including customer experience analytics, social media monitoring, financial sentiment tracking, and automated support systems, where extracting meaning and opinion from large volumes of text is essential for informed decisionmaking
